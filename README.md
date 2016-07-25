@@ -4,7 +4,7 @@
   + Have different versions of our files
   + The Logo For GIthub is a really cool Octocat
   + Collaborative
-  + Interact with it blahbalhconflictusing a command line app
+  + Interact why are their no conflicts??
   + share pictures of Cats
 
 + Encourages Being Specific About What You're Doing
