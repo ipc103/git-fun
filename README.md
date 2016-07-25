@@ -1,8 +1,8 @@
 ## Version Control System
   + Have different versions of our files
-## The Logo For GIthub is a really cool Octocat
-## Collaborative
-## Interact with it using a command line app
+  + The Logo For GIthub is a really cool Octocat
+  + Collaborative
+  + Interact with it using a command line app
 
 + Encourages Being Specific About What You're Doing
 
